@@ -22,7 +22,7 @@ include_in_header: false
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
 <h2>Crash data collection</h2>
-<p>Gotmote uses Crashlystics for crash data collection. For more information on this please have a look at <a href="https://policies.google.com/privacy">Crashlystics privacy policy</a>.</p>
+<p>"Pocket Lux Light Meter" uses Crashlystics for crash data collection. For more information on this please have a look at <a href="https://policies.google.com/privacy">Crashlystics privacy policy</a>.</p>
 
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>

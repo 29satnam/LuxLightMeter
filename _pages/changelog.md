@@ -36,10 +36,6 @@ This is the first update to our app. Jeez **goodness** by kept more sensually a 
 * Redesigned user interface, meter has now bigger and bolder font.
 * Improved Lux Meter Algorithm, now even more precise.
 
-
-As always, any feedback, suggestions or advice can be sent directly to 29satnam@gmail.com.
-
-
 ## Version 1.0
 
 Initial release

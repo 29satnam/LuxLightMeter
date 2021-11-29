@@ -29,8 +29,8 @@ youtube_username:
 features:
   - title: Real-time Luminosity
     description: Measure Lux in lx and foot-candle in real-time.
-    fontawesome_icon_name: thermometer-full
-
+    fontawesome_icon_name: fighter-jet
+    
   - title: Highly Accurate
     description: Based on Internal Exposure Compensation, it is the most accurate light meter app.
     fontawesome_icon_name: calculator
